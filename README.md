@@ -28,10 +28,10 @@ Software engineer. Dreamer. Logic builder.
 ---
 
 ### 📫 Connect with Me
-- 🔗 [Stack Overflow](https://stackoverflow.com/users/your-id)  
-- 💻 [CodeSandbox](https://codesandbox.io/u/your-username)  
-- 🧠 [Medium](https://medium.com/@your-username)  
-- 🐙 [GitHub](https://github.com/your-username)
+[Stack Overflow](https://stackoverflow.com/users/your-id)  
+[CodeSandbox](https://codesandbox.io/u/your-username)  
+[Medium](https://medium.com/@your-username)
+[GitHub](https://github.com/your-username)
  
 
 ---
