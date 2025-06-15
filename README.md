@@ -1,13 +1,12 @@
-# Girish Gaidhane (He/Him) 💻
+# Girish Gaidhane
 
-> I'm a curious mind, Go enthusiast, and builder at heart.
+Software engineer. Dreamer. Logic builder.
 
-### 🧠 Currently:
-- 🚀 Building a Slack bot using **Go + MongoDB**
-- 📖 Studying Computer Science at BCA, diving into OS, DSA, and Discrete Math
-- 🌐 Exploring Blockchain & DApp Development
-- 💬 Learning Japanese one Hiragana at a time
-- 🧊 Cold showers? Every. Single. Day. (Discipline unlocked.)
+> Building clean systems. Writing Go. Thinking in design patterns.
+
+- Crafting things that matter
+- Studying how software actually *works*
+- Obsessed with detail, clarity & speed
 
 ---
 
