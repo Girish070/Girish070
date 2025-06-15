@@ -28,9 +28,11 @@ Software engineer. Dreamer. Logic builder.
 ---
 
 ### 📫 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
-[CodeSandbox](https://codesandbox.io/u/girish070)  
+- 🔗 [Stack Overflow](https://stackoverflow.com/users/your-id)  
+- 💻 [CodeSandbox](https://codesandbox.io/u/your-username)  
+- 🧠 [Medium](https://medium.com/@your-username)  
+- 🐙 [GitHub](https://github.com/your-username)
+ 
 
 ---
 
