@@ -1,16 +1,13 @@
-## Hi there 👋
+# Girish Gaidhane
 
-<!--
-**Girish070/Girish070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer. Dreamer. Logic builder.
 
-Here are some ideas to get you started:
+> Building clean systems. Writing Go. Thinking in design patterns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Crafting things that matter
+- Studying how software actually *works*
+- Obsessed with detail, clarity & speed
+
+📍 Here to learn, build & maybe surprise you.
+
+---
