@@ -1,12 +1,13 @@
-# Hi there 👋 I'm Girish
+# Girish Gaidhane
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Software engineer. Dreamer. Logic builder.
 
-🚀 I’m currently building cool stuff using **Go + MongoDB**  
-💻 Always exploring DApps, APIs, and system-level thinking  
-📚 Learning: Blockchain, DSA, and Discrete Math  
-💬 Ask me about Go, Anime, or anything nerdy
+> Building clean systems. Writing Go. Thinking in design patterns.
 
-> _"Code. Build. Repeat."_  
+- Crafting things that matter
+- Studying how software actually *works*
+- Obsessed with detail, clarity & speed
+
+📍 Here to learn, build & maybe surprise you.
+
+---
