@@ -10,4 +10,6 @@ Software engineer. Dreamer. Logic builder.
 
 📍 Here to learn, build & maybe surprise you.
 
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Building-blue)](https://github.com/Girish070)
+
 ---
