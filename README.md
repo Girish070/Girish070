@@ -1,47 +1,56 @@
-# Girish Gaidhane
+# Hi there 👋 I'm Girish
 
-Software engineer. Dreamer. Logic builder.
+> "Engineer by logic, builder by choice."
 
-> Building clean systems. Writing Go. Thinking in design patterns.
-
-- Crafting things that matter
-- Studying how software actually *works*
-- Obsessed with detail, clarity & speed
-
----
-
-### 💻 Projects & Learning
-- I’m working on cool things with **Go, MongoDB, and WebSockets**
-- Writing code that talks back (bots, APIs, automations)
-- Always down to collaborate on open-source ideas
-
----
+### 🚀 About Me
+- 💻 Go developer & system design enthusiast
+- 🧠 Breaking complex ideas into simple code
+- 🌊 Learning blockchain, distributed systems, and DApps
+- 💬 Writing about code, life, and philosophy
 
 ### 🛠️ Tech Stack
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+### 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50" alt="go logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angular logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="50" alt="zig logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="50" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="terminal/bash logo" />
+</p>
 
 
+### 💡 Philosophy
+> "Code should be as simple as possible, but never simpler."
+
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://stackoverflow.com/users/your-id" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" alt="Stack Overflow" height="40"/>
+  </a>
+  <a href="https://medium.com/@your-username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" height="40"/>
+  </a>
+  <a href="https://codesandbox.io/u/your-username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codesandbox.svg" alt="CodeSandbox" height="40"/>
+  </a>
+  <a href="https://www.kaggle.com/your-username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" alt="Kaggle" height="40"/>
+  </a>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" height="40"/>
+  </a>
+</p>
 
 
 ---
 
-### 📫 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
- 
-
----
-
-### ⚡ Fun Fact
-I prefer Go routines over caffeine ☕
+🧩 *Currently hacking on ideas that make code feel like magic.*
 
