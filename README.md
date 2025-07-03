@@ -37,8 +37,6 @@
 
 
 
----
-
 <p align="center">✨ Code that works. Ideas that scale. Mind that builds. ✨</p>
 
 
