@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Backend_Architecture-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Open_Source-2496ED?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-<iframe src="https://github.com/sponsors/Girish070/button" title="Sponsor Girish070" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
 > *Architecting high-performance backends and exploring the foundations of computing.*
 
@@ -48,3 +47,4 @@ I am a backend developer who thrives at the intersection of **low-level architec
 - 💼 **[LinkedIn](https://www.linkedin.com/in/girish-gaidhane)** — Professional network.
 - 🐦 **[X/Twitter](https://x.com/GaidhaneGirish)** — Tech banter and updates.
 - 🧠 **[StackOverflow](https://stackoverflow.com/users/25130980/girish-gaidhane)** — Community problem solving.
+- <iframe src="https://github.com/sponsors/Girish070/button" title="Sponsor Girish070" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
