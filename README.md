@@ -8,7 +8,7 @@
 
 <br/>
 
-### 🚀 Active Execution Context
+###  Active Execution Context
 
 -  **Distributed Systems:** Architecting a high-concurrency, multi-tenant audit log SaaS utilizing **Go, Redis, and ClickHouse**.
 -  **Deep Tech / Simulation:** Maintaining a custom-built **quantum qubit visualizer** engineered entirely in Go.
@@ -18,7 +18,7 @@
 
 <br/>
 
-### 🛠️ Hardware & Software Stack
+###  Hardware & Software Stack
 
 **Core & Systems**  
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
