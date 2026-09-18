@@ -1,50 +1,54 @@
-# ⚡ Girish Gaidhane 
+<div align="center">
+  <h1> Girish Gaidhane</h1>
+  <p><b>Systems Engineering • Distributed Architectures • Backend Development</b></p>
+  <p>
+    Building robust microservices, diving into low-level mechanics, and engineering scalable infrastructure. Currently completing my final year in Computer Applications and preparing for advanced research in Communications and Computer Engineering in Japan.
+  </p>
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Systems_Engineering-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend_Architecture-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_Source-2496ED?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<br/>
 
-> *Architecting high-performance backends and exploring the foundations of computing.*
+### 🚀 Active Execution Context
 
-I am a backend developer who thrives at the intersection of **low-level architecture** and **scalable distributed systems**. Whether it's spinning up microservices in Go, writing C for deeper system understanding, or exploring the mechanics of quantum computing, I build tools that handle complexity with elegance.
+-  **Distributed Systems:** Architecting a high-concurrency, multi-tenant audit log SaaS utilizing **Go, Redis, and ClickHouse**.
+-  **Deep Tech / Simulation:** Maintaining a custom-built **quantum qubit visualizer** engineered entirely in Go.
+-  **AI & Vector Search:** Building Retrieval-Augmented Generation (RAG) pipelines powered by **Ollama and Qdrant**.
+-  **Open Source:** Prepping for **Google Summer of Code (GSoC)**, targeting infrastructure projects under the CNCF.
+- 🇯🇵 **Language & Global:** Training for the **JLPT N3** examination.
 
----
+<br/>
 
-### 🔭 Current Trajectory
+### 🛠️ Hardware & Software Stack
 
-- 🏗️ **Distributed Systems:** Architecting a high-concurrency, multi-tenant audit log SaaS utilizing **Go, Redis, and ClickHouse**.
-- 🧠 **AI & Search Architecture:** Engineering Retrieval-Augmented Generation (RAG) pipelines powered by **Ollama and Qdrant**.
-- 👁️ **Computer Vision:** Experimenting with real-time image processing using YOLO and **GoCV**.
-- 🌌 **Deep Tech:** Expanding my knowledge in **C, Zig**, and RISC architectures, alongside maintaining a custom-built quantum qubit visualizer.
-- 🌍 **Open Source:** Actively preparing contributions for **Google Summer of Code (GSoC)**.
+**Core & Systems**  
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Zig](https://img.shields.io/badge/-Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+**Data & Infrastructure**  
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/-Qdrant-E21A4B?style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🛠️ The Tech Forge
+<br/>
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Core Languages** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Zig](https://img.shields.io/badge/-Zig-F7A41D?style=flat-square&logo=zig&logoColor=white) |
-| **Backend & Data** | ![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?style=flat-square) ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat-square) ![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Infrastructure** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Ubuntu_WSL](https://img.shields.io/badge/-Ubuntu_WSL-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-
----
-
-### 📊 System Telemetry
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Girish070&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9&icon_color=00ADD8" alt="Girish's Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girish070&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9" alt="Top Languages" height="165" />
-</p>
-
----
+<a href="https://github.com/sponsors/Girish070">
+  <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" />
+</a>
 
 ### 📡 Establish Connection
-
-- ✍️ **[Medium](https://medium.com/@gaidhanegirish8)** — Technical write-ups and system design thoughts.
-- 💼 **[LinkedIn](https://www.linkedin.com/in/girish-gaidhane)** — Professional network.
-- 🐦 **[X/Twitter](https://x.com/GaidhaneGirish)** — Tech banter and updates.
-- 🧠 **[StackOverflow](https://stackoverflow.com/users/25130980/girish-gaidhane)** — Community problem solving.
-- <iframe src="https://github.com/sponsors/Girish070/button" title="Sponsor Girish070" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+<div align="center">
+  <a href="YOUR_LINKEDIN_URL_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="YOUR_X_URL_HERE">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="YOUR_MEDIUM_URL_HERE">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="YOUR_STACKOVERFLOW_URL_HERE">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
+  </a>
+</div>
